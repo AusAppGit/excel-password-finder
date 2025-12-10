@@ -1,0 +1,5 @@
+msoffcrypto-tool=5.0.1
+ Simply: pip install msoffcrypto-tool
+
+openpyxl
+  Simply: pip install openpyxl
